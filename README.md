@@ -7,7 +7,7 @@ Profissional de dados focado em BI, SQL e criação de dashboards estratégicos.
 
 ## 🔍 Sobre mim  
 
-- 🎓 ADS — conclusão em 2026  
+- 🎓 Análise e Desenvolvimento de Sistemas — conclusão em 2026  
 - 📊 Atuação prática com SQL Server, DAX e modelagem para BI  
 - 📈 Experiência com indicadores financeiros, comerciais e operacionais  
 - 🔧 Construção de modelos analíticos e ETL para dashboards  
