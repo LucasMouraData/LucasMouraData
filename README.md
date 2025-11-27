@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👨🏻‍💻 Lucas Moura  
+**`Analista de Dados | BI & SQL`**
 
-<!--
-**LucasMouraData/LucasMouraData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de dados focado em BI, SQL e criação de dashboards estratégicos. Trabalho com Power BI, modelagem dimensional e métricas de negócio, sempre com foco em performance, clareza e entrega de valor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Sobre mim  
+
+- 🎓 ADS — conclusão em 2026  
+- 📊 Atuação prática com SQL Server, DAX e modelagem para BI  
+- 📈 Experiência com indicadores financeiros, comerciais e operacionais  
+- 🔧 Construção de modelos analíticos e ETL para dashboards  
+- 📘 Formação complementar em Data Analytics (Alura)
+
+---
+
+## 🧩 Hard Skills
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+## 🧰 Stack Técnica
+
+### **💾 Banco de Dados**
+- SQL Server (queries, joins, CTEs, views, modelagem)  
+- Criação de tabelas analíticas e estruturas para BI  
+
+### **📊 Business Intelligence**
+- Power BI (DAX avançado, medidas, modelagem estrela)  
+- Dashboards executivos e indicadores estratégicos  
+
+### **⚙️ Dados**
+- ETL / tratamento  
+- Power Query  
+- Python básico (limpeza e análise)
+
+---
+
+## 🚀 Projeto em Destaque  
+### 🟨 **Power BI – Crédito & Risco** *(Projeto principal)*  
+Painel analítico com:  
+- visão executiva da carteira  
+- bucket de atraso  
+- inadimplência  
+- saldo vencido / a vencer  
+- análise da evolução da carteira  
+
+👉 **Acesse:** https://lucasmouradata.github.io/portfolio/
+
+---
+
+## 📁 Portfólio Completo
+
+- 🌐 **Portfólio (GitHub Pages):**  
+  https://lucasmouradata.github.io/portfolio/
+
+- 🟦 **LinkedIn:**  
+  https://www.linkedin.com/in/lucas-moura-lm13/
+
+---
+
+## 📬 Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moura-lm13/)  
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmouradata@gmail.com)
