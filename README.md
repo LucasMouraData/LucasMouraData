@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Lucas Moura  
-**`Analista de Dados | BI & SQL`**
+**`Analista de Dados | BI | SQL`**
 
 Profissional de dados focado em BI, SQL e criação de dashboards estratégicos. Trabalho com Power BI, modelagem dimensional e métricas de negócio, sempre com foco em performance, clareza e entrega de valor.
 
@@ -7,7 +7,7 @@ Profissional de dados focado em BI, SQL e criação de dashboards estratégicos.
 
 ## 🔍 Sobre mim  
 
-- 🎓 Análise e Desenvolvimento de Sistemas — conclusão em 2026  
+- 🎓 ADS — conclusão em 2026  
 - 📊 Atuação prática com SQL Server, DAX e modelagem para BI  
 - 📈 Experiência com indicadores financeiros, comerciais e operacionais  
 - 🔧 Construção de modelos analíticos e ETL para dashboards  
@@ -52,6 +52,12 @@ Painel analítico com:
 👉 **Acesse:** https://lucasmouradata.github.io/portfolio/
 
 ---
+## 📜 Certificações
+
+<a href="https://www.credly.com/badges/f76a6dc1-7951-48de-b74b-d2e427edc2a3" target="_blank">
+  <img src="asset/Google-Data-Analitycs.png
+" width="45" alt="Google Data Analytics Certificate">
+</a>
 
 ## 📁 Portfólio Completo
 
@@ -65,5 +71,5 @@ Painel analítico com:
 
 ## 📬 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moura-lm13/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moura-lm13/) 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmouradata@gmail.com)
