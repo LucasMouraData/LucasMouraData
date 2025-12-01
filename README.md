@@ -55,9 +55,8 @@ Painel analítico com:
 ## 📜 Certificações
 
 <a href="https://www.credly.com/badges/f76a6dc1-7951-48de-b74b-d2e427edc2a3" target="_blank">
-  <img src="asset/Google-Data-Analitycs.png
-" width="45" alt="Google Data Analytics Certificate">
-</a>
+<img src="asset/Google-Data-Analitycs.png" width="45" alt="Google Data Analytics Certificate"></a>
+
 
 ## 📁 Portfólio Completo
 
